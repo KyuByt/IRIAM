@@ -10,3 +10,6 @@ An IRIAM themed vanilla+ model as a gift on their first anniversary!
   6. Click the folder icon in the top left
   7. Paste the .zip file inside there
   8. Select the IRIAM model for the respective version
+
+-# I do not own the rights to Shirasu, all rights go to IRIAM Inc.
+-# Also John "Shirasu" IRIAM is the manifestation of the IRIAM CEO in the US platform and should not be taken seriously.
