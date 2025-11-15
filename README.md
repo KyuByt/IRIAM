@@ -12,4 +12,3 @@ An IRIAM themed vanilla+ model as a gift on their first anniversary!
   8. Select the IRIAM model for the respective version
 
 I do not own the rights to Shirasu, all rights go to IRIAM Inc.
-Also John "Shirasu" IRIAM is the manifestation of the IRIAM CEO in the US platform and should not be taken seriously.
